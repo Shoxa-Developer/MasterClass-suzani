@@ -1,5 +1,5 @@
 import React from "react";
-import { Globe, Mail, Instagram, MapPin, ArrowUpRight } from "lucide-react";
+import { Globe, Mail, Instagram, MapPin, ArrowUpRight, MessageCircle } from "lucide-react";
 
 const aloqa = [
   {
@@ -9,10 +9,10 @@ const aloqa = [
     icon: <Globe size={22} />,
   },
   {
-    title: "EMAIL",
-    value: "zarinaisomova89@icloud.com",
-    link: "mailto:zarinaisomova89@icloud.com",
-    icon: <Mail size={22} />,
+    title: "WHATSAPP",
+    value: "ArtSuzani",
+    link: "https://wa.me/998917767714",
+    icon: <MessageCircle size={22} />,
   },
   {
     title: "INSTAGRAM",
